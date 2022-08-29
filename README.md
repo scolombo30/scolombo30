@@ -8,9 +8,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+
 ---
 
 ### :man_technologist: About Me :
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -30,6 +32,7 @@
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/rspec/rspec-original.svg" width="40" height="40"/>&nbsp; -->
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original.svg" width="40" height="40"/>&nbsp; -->
 </div>
+
 ---
 
 ### :fire: My Stats :
