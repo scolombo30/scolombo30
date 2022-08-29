@@ -12,7 +12,9 @@
 ---
 
 ### :technologist: About Me :
-I'm a student of the Università dell'Insubria <img src="https://play.google.com/store/apps/details?id=it.cineca.app.uninsubria&hl=en_US&gl=US">
+
+I'm a student of the Università dell'insubria <img src="https://www.eco.uninsubria.it/site/wp-content/uploads/2015/02/sigillo_base_2500x2500.png">
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
