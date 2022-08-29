@@ -12,7 +12,7 @@
 ---
 
 ### :technologist: About Me :
-
+I'm a student of the Università dell'Insubria <img src="https://play.google.com/store/apps/details?id=it.cineca.app.uninsubria&hl=en_US&gl=US">
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
