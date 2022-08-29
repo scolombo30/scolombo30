@@ -11,7 +11,7 @@
 
 ---
 
-### :man_technologist: About Me :
+### :technologist: About Me :
 
 ---
 
