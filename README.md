@@ -13,7 +13,7 @@
 
 ### :technologist: About Me :
 
-I'm a graduate student at the Università dell'insubria <img src="https://www.eco.uninsubria.it/site/wp-content/uploads/2015/02/sigillo_base_2500x2500.png" width=30px/>
+I'm a graduate student at the Università dell'insubria
 - :computer: Currently Junior backend developer
 ---
 
@@ -43,6 +43,5 @@ I'm a graduate student at the Università dell'insubria <img src="https://www.ec
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=scolombo30&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scolombo30&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Jandas's GitHub stats](https://github-readme-stats.vercel.app/api?username=scolombo30&show_icons=true&theme=vision-friendly-dark)
